@@ -1,0 +1,42 @@
+{
+  "donuts": [
+    {
+      "id": "ABX212",
+      "name": "Glazed Fudge",
+      "icon": "glazed-fudge",
+      "price": 4.05,
+      "promo": "new",
+      "description": "A classic donut with a sugar glaze."
+    },
+    {
+      "id": "DEB432",
+      "name": "Just Chocolate",
+      "icon": "just-chocolate",
+      "price": 2,
+      "promo": "limited",
+      "description": "A delicious donut covered in rich chocolate."
+    },
+    {
+      "id": "JKE321",
+      "name": "Strawberry glaze",
+      "icon": "strawberry-glaze",
+      "price": 1.8,
+      "description": "A strawberry-flavored donut with a fruity glaze."
+    },
+    {
+      "id": "EFG234",
+      "name": "Caramel Swirl",
+      "icon": "caramel-swirl",
+      "price": 2.5,
+      "promo": "new",
+      "description": "A delightful donut with a caramel swirl."
+    },
+    {
+      "name": "Vanilla Sundae",
+      "icon": "vanilla-sundae",
+      "price": 2,
+      "description": "This donut has vanilla flavour. ",
+      "id": "blKVrAD"
+    }
+  ]
+}
